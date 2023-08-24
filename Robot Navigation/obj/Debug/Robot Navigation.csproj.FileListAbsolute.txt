@@ -1,0 +1,8 @@
+C:\Users\User\Documents\GitHub\UniCource\Sem 03\COS30019 - Introduction to Artificial Intelligence\Robot Navigation\obj\Debug\Robot Navigation.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\UniCource\Sem 03\COS30019 - Introduction to Artificial Intelligence\Robot Navigation\obj\Debug\Robot Navigation.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\GitHub\UniCource\Sem 03\COS30019 - Introduction to Artificial Intelligence\Robot Navigation\obj\Debug\Robot Navigation.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\UniCource\Sem 03\COS30019 - Introduction to Artificial Intelligence\Robot Navigation\bin\Debug\Robot Navigation.exe.config
+C:\Users\User\Documents\GitHub\UniCource\Sem 03\COS30019 - Introduction to Artificial Intelligence\Robot Navigation\bin\Debug\Robot Navigation.exe
+C:\Users\User\Documents\GitHub\UniCource\Sem 03\COS30019 - Introduction to Artificial Intelligence\Robot Navigation\bin\Debug\Robot Navigation.pdb
+C:\Users\User\Documents\GitHub\UniCource\Sem 03\COS30019 - Introduction to Artificial Intelligence\Robot Navigation\obj\Debug\Robot Navigation.exe
+C:\Users\User\Documents\GitHub\UniCource\Sem 03\COS30019 - Introduction to Artificial Intelligence\Robot Navigation\obj\Debug\Robot Navigation.pdb
