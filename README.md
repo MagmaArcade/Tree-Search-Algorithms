@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Tree-Search-Algorithms</title>
-</head>
-<body>
-
 <h1>Tree-Search-Algorithms</h1>
 
 <h2>Instructions:</h2>
@@ -25,6 +18,7 @@ BFS: 23<br>
 down; right; right; right; right; up; up; right; right; right;</p>
 
 <p>Once the program is run, a command-line UI will be generated for the map. The symbols will indicate the value of each cell: initial state (i), goals (g), and walls (w).</p>
+<
 
 <h2>Search Algorithms:</h2>
 <ol>
@@ -34,6 +28,3 @@ down; right; right; right; right; up; up; right; right; right;</p>
 <li>A* Search, also known as A Star, is an algorithm that considers two factors when determining the optimal path. These factors are the G-Score, which is the path cost between nodes, and H-Score, which is an estimate of the distance to from the current location to the goal. Utilizing these factors, A* can search for the most direct path while minimizing the number of nodes that need to be explored. This results in a faster and more efficient system that uses less memory.</li>
 <li>Random Search is a brute-force approach to an uninformed search algorithm that randomly selects a node from the available paths and explores it until it finds the goal node. Random search does not use any heuristics or search strategies, making it simple to implement but not very efficient or effective.</li>
 </ol>
-
-</body>
-</html>
