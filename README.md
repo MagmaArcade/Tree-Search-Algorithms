@@ -18,7 +18,7 @@ BFS: 23<br>
 down; right; right; right; right; up; up; right; right; right;</p>
 
 <p>Once the program is run, a command-line UI will be generated for the map. The symbols will indicate the value of each cell: initial state (i), goals (g), and walls (w).</p>
-<img width="674" alt="UI" src="User Interface.png">
+<img width="674" alt="UI" src="Images\User Interface.png">
 
 <h2>Search Algorithms:</h2>
 <ol>
